@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Github Tools",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
